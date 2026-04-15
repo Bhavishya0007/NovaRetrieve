@@ -1,6 +1,7 @@
 # 🌠 NovaRetrieve
 
-**High-Velocity Document Intelligence powered by Gemini 3 Flash & FAISS.**
+**High-Velocity Document Intelligence powered by Gemini 3 Flash & FAISS.**<img width="1448" height="845" alt="Screenshot 2026-04-15 at 3 30 12 AM" src="https://github.com/user-attachments/assets/7bc7d0fc-8c87-465d-9305-e7f2b5b92cdc" />
+
 
 [](https://www.python.org/downloads/)
 [](https://github.com/langchain-ai/langchain)
