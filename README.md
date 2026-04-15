@@ -31,7 +31,7 @@
 ### 1\. Installation
 
 ```bash
-git clone https://github.com/yourusername/NovaRetrieve.git
+git clone https://github.com/Bhavishya0007/NovaRetrieve.git
 cd NovaRetrieve
 python3 -m venv pdf_env
 source pdf_env/bin/activate
