@@ -1,15 +1,6 @@
-# --- Core AI Orchestration ---
-langchain>=1.2.15
-langchain-google-genai>=4.2.1
-langchain-community>=0.3.0
-langchain-text-splitters>=0.3.0
-langchain-classic>=0.1.0
-
-# --- Vector Database & PDF Logic ---
-faiss-cpu>=1.14.1
-pypdf>=6.10.1
-
-# --- Web Interface & Environment ---
-streamlit>=1.55.0
-python-dotenv>=1.2.2
-pydantic>=2.13.0
+langchain==0.0.154
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.18.1
+faiss-cpu==1.7.4
+altair<5
