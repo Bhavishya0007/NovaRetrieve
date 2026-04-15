@@ -57,13 +57,3 @@ python3 -m streamlit run app.py
   * **Zero-Cost Inference:** Fully compatible with Google AI Studio's free tier for Gemini 3 Flash.
   * **Mac Silicon Optimized:** Leverages local `faiss-cpu` for instant search on macOS.
   * **Dependency Resolution:** Architected to handle the modern `protobuf 6.x` and `pydantic v2` ecosystem.
-
------
-
-### 💡 Final "Branding" Tips:
-
-  * **The Streamlit App:** In your `app.py`, make sure the header says `st.title("🌠 NovaRetrieve")`.
-  * **The GitHub Repo:** If you haven't already, change the repository name in **Settings** to `NovaRetrieve`.
-  * **Social Proof:** In your README, you can add a small "Current Performance" badge like:
-    > **Performance:** \~0.8s Time-to-First-Token (TTFT) on standard 50-page PDFs.
-
